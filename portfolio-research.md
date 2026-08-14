@@ -4,7 +4,8 @@
 **Task:** ELV-37  
 **Company:** Elvis Peace Company  
 **Mission context:** Build a SaaS product  
-**Research date:** 13 August 2026
+**Research date:** 13 August 2026  
+**Decision update:** 14 August 2026
 
 ## Executive recommendation
 
@@ -17,6 +18,35 @@ The recommended blend is:
 - **Josh Comeau's teaching engine:** useful writing and interactive explanation establish expertise over time.
 - **Lynn Fisher's personality:** a recognizable visual voice and evolving details make the site feel authored.
 - **Bruno Simon's demonstration principle:** the website itself should prove technical ability—but we should borrow the principle, not the costly full-game format.
+
+## Decision matrix for Elvis's current portfolio
+
+The live MVP already implements the highest-value patterns: concise positioning, three selected-work narratives, a visible contact path, and an accessible decision-ledger interaction. The next move should deepen proof rather than replace the visual system.
+
+| Pattern | Visitor value | Cost | Current state | Decision |
+| --- | --- | --- | --- | --- |
+| Clear role and value proposition | Very high | Low | Implemented in the hero | **Keep; refine only when positioning changes** |
+| Three evidence-led case studies | Very high | Medium | Implemented as homepage narratives | **Deepen first** with dedicated routes and approved artifacts |
+| Conventional navigation and contact | Very high | Low | Implemented | **Keep**; do not hide behind a command palette |
+| Decision log as signature interaction | High | Medium | Implemented with keyboard-accessible tabs | **Keep as the single signature** |
+| Writing / technical notes | High over time | High content effort | Not yet present | **Add after three strong articles exist**; do not launch an empty index |
+| Project archive | Medium | Medium | Not present | **Defer** until omitted work creates a real curation problem |
+| Version marker / changelog | Medium | Low | Not prominent | **Add next** only if updates will be maintained |
+| Rich project media | High | Medium | Intentionally absent | **Add when rights and factual context are approved** |
+| Full-screen spectacle or 3D world | Low for Elvis's target | Very high | Not present | **Reject**; it weakens SaaS-product clarity |
+| Dense technology badges | Low | Low | Avoided | **Continue avoiding**; show technologies inside decisions and outcomes |
+
+### Pattern-to-page mapping
+
+- **Hero:** borrow Brittany Chiang's immediate role clarity and Lee Robinson's editorial restraint.
+- **Selected work:** use Brittany's curated proof model, but make each entry problem → ownership → evidence rather than a conventional project card.
+- **How I build:** retain the decision ledger as Elvis's practical version of Bruno Simon's “site as demonstration” principle.
+- **Future notes:** borrow Josh Comeau's teaching model only after the content exists; useful explanations should lead the design.
+- **Future archive/changelog:** borrow Lynn Fisher's sense of evolution when there are genuine versions or experiments worth preserving.
+
+### Recommended next increment
+
+Create one dedicated flagship case-study route before adding new homepage sections. Use the strongest available project and include the problem, Elvis's ownership, the pivotal trade-off, evidence, limitations, and the next decision. This tests the portfolio's core promise—SaaS judgment backed by proof—without expanding into a CMS, archive, or visual overhaul.
 
 ## Reference set
 

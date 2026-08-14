@@ -12,6 +12,7 @@ The MVP includes:
 - Three evidence-qualified project narratives
 - A keyboard-accessible decision-led working-process component
 - Responsive layouts down to 320 CSS pixels
+- System-aware light and dark themes with a saved manual override
 - Reduced-motion support and progressive enhancement
 - SEO, Open Graph, canonical, and structured-data metadata
 - `robots.txt`, `sitemap.xml`, and Vercel security headers
