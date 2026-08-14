@@ -1,5 +1,32 @@
 document.documentElement.classList.add('js');
 
+const themeButtons = [...document.querySelectorAll('[data-theme]')];
+const systemTheme = window.matchMedia('(prefers-color-scheme: dark)');
+const savedTheme = window.localStorage.getItem('portfolio-theme');
+let themePreference = ['light', 'dark'].includes(savedTheme) ? savedTheme : 'system';
+
+const applyTheme = (systemDark = systemTheme.matches) => {
+  const resolvedTheme = themePreference === 'system'
+    ? (systemDark ? 'dark' : 'light')
+    : themePreference;
+  document.documentElement.setAttribute('data-theme', resolvedTheme);
+  themeButtons.forEach((button) => {
+    button.setAttribute('aria-pressed', String(button.dataset.theme === themePreference));
+  });
+};
+
+themeButtons.forEach((button) => {
+  button.addEventListener('click', () => {
+    themePreference = button.dataset.theme;
+    window.localStorage.setItem('portfolio-theme', themePreference);
+    applyTheme();
+  });
+});
+systemTheme.addEventListener('change', (event) => {
+  if (themePreference === 'system') applyTheme(event.matches);
+});
+applyTheme();
+
 const reveals = document.querySelectorAll('.reveal');
 if ('IntersectionObserver' in window && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
   const observer = new IntersectionObserver((entries) => {
@@ -39,4 +66,3 @@ tabs.forEach((tab, index) => {
     activateTab(tabs[nextIndex]);
   });
 });
-

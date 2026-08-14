@@ -1,0 +1,312 @@
+[
+  {
+    "viewport": "mobile-375",
+    "theme": "light",
+    "overflow": {
+      "scrollW": 375,
+      "clientW": 375,
+      "overflowBy": 0,
+      "offenders": []
+    },
+    "smallTargets": [
+      {
+        "tag": "a",
+        "text": "Start a conversation ↗",
+        "w": 152,
+        "h": 19
+      }
+    ],
+    "errors": [],
+    "file": "/var/folders/1d/cr68b4b50jg0gh_hbjx6vr0h0000gn/T/paperclip-run-elv-37-acecf0bc-f2f-TEASgr/shots/mobile-375-light.png"
+  },
+  {
+    "viewport": "mobile-375",
+    "theme": "dark",
+    "overflow": {
+      "scrollW": 375,
+      "clientW": 375,
+      "overflowBy": 0,
+      "offenders": []
+    },
+    "smallTargets": [
+      {
+        "tag": "a",
+        "text": "Start a conversation ↗",
+        "w": 152,
+        "h": 19
+      }
+    ],
+    "errors": [
+      "Failed to load resource: the server responded with a status of 404 ()"
+    ],
+    "file": "/var/folders/1d/cr68b4b50jg0gh_hbjx6vr0h0000gn/T/paperclip-run-elv-37-acecf0bc-f2f-TEASgr/shots/mobile-375-dark.png"
+  },
+  {
+    "viewport": "mobile-320",
+    "theme": "light",
+    "overflow": {
+      "scrollW": 320,
+      "clientW": 320,
+      "overflowBy": 0,
+      "offenders": []
+    },
+    "smallTargets": [
+      {
+        "tag": "a",
+        "text": "Start a conversation ↗",
+        "w": 152,
+        "h": 19
+      }
+    ],
+    "errors": [],
+    "file": "/var/folders/1d/cr68b4b50jg0gh_hbjx6vr0h0000gn/T/paperclip-run-elv-37-acecf0bc-f2f-TEASgr/shots/mobile-320-light.png"
+  },
+  {
+    "viewport": "mobile-320",
+    "theme": "dark",
+    "overflow": {
+      "scrollW": 320,
+      "clientW": 320,
+      "overflowBy": 0,
+      "offenders": []
+    },
+    "smallTargets": [
+      {
+        "tag": "a",
+        "text": "Start a conversation ↗",
+        "w": 152,
+        "h": 19
+      }
+    ],
+    "errors": [],
+    "file": "/var/folders/1d/cr68b4b50jg0gh_hbjx6vr0h0000gn/T/paperclip-run-elv-37-acecf0bc-f2f-TEASgr/shots/mobile-320-dark.png"
+  },
+  {
+    "viewport": "tablet-768",
+    "theme": "light",
+    "overflow": {
+      "scrollW": 768,
+      "clientW": 768,
+      "overflowBy": 0,
+      "offenders": []
+    },
+    "smallTargets": [
+      {
+        "tag": "a",
+        "text": "Work",
+        "w": 34,
+        "h": 22
+      },
+      {
+        "tag": "a",
+        "text": "Approach",
+        "w": 63,
+        "h": 22
+      },
+      {
+        "tag": "a",
+        "text": "About",
+        "w": 38,
+        "h": 22
+      },
+      {
+        "tag": "a",
+        "text": "Start a conversation ↗",
+        "w": 152,
+        "h": 19
+      }
+    ],
+    "errors": [],
+    "file": "/var/folders/1d/cr68b4b50jg0gh_hbjx6vr0h0000gn/T/paperclip-run-elv-37-acecf0bc-f2f-TEASgr/shots/tablet-768-light.png"
+  },
+  {
+    "viewport": "tablet-768",
+    "theme": "dark",
+    "overflow": {
+      "scrollW": 768,
+      "clientW": 768,
+      "overflowBy": 0,
+      "offenders": []
+    },
+    "smallTargets": [
+      {
+        "tag": "a",
+        "text": "Work",
+        "w": 34,
+        "h": 22
+      },
+      {
+        "tag": "a",
+        "text": "Approach",
+        "w": 63,
+        "h": 22
+      },
+      {
+        "tag": "a",
+        "text": "About",
+        "w": 38,
+        "h": 22
+      },
+      {
+        "tag": "a",
+        "text": "Start a conversation ↗",
+        "w": 152,
+        "h": 19
+      }
+    ],
+    "errors": [],
+    "file": "/var/folders/1d/cr68b4b50jg0gh_hbjx6vr0h0000gn/T/paperclip-run-elv-37-acecf0bc-f2f-TEASgr/shots/tablet-768-dark.png"
+  },
+  {
+    "viewport": "desktop-1280",
+    "theme": "light",
+    "overflow": {
+      "scrollW": 1280,
+      "clientW": 1280,
+      "overflowBy": 0,
+      "offenders": []
+    },
+    "smallTargets": [
+      {
+        "tag": "a",
+        "text": "Work",
+        "w": 34,
+        "h": 22
+      },
+      {
+        "tag": "a",
+        "text": "Approach",
+        "w": 63,
+        "h": 22
+      },
+      {
+        "tag": "a",
+        "text": "About",
+        "w": 38,
+        "h": 22
+      },
+      {
+        "tag": "a",
+        "text": "Start a conversation ↗",
+        "w": 152,
+        "h": 19
+      }
+    ],
+    "errors": [],
+    "file": "/var/folders/1d/cr68b4b50jg0gh_hbjx6vr0h0000gn/T/paperclip-run-elv-37-acecf0bc-f2f-TEASgr/shots/desktop-1280-light.png"
+  },
+  {
+    "viewport": "desktop-1280",
+    "theme": "dark",
+    "overflow": {
+      "scrollW": 1280,
+      "clientW": 1280,
+      "overflowBy": 0,
+      "offenders": []
+    },
+    "smallTargets": [
+      {
+        "tag": "a",
+        "text": "Work",
+        "w": 34,
+        "h": 22
+      },
+      {
+        "tag": "a",
+        "text": "Approach",
+        "w": 63,
+        "h": 22
+      },
+      {
+        "tag": "a",
+        "text": "About",
+        "w": 38,
+        "h": 22
+      },
+      {
+        "tag": "a",
+        "text": "Start a conversation ↗",
+        "w": 152,
+        "h": 19
+      }
+    ],
+    "errors": [],
+    "file": "/var/folders/1d/cr68b4b50jg0gh_hbjx6vr0h0000gn/T/paperclip-run-elv-37-acecf0bc-f2f-TEASgr/shots/desktop-1280-dark.png"
+  },
+  {
+    "viewport": "desktop-1440",
+    "theme": "light",
+    "overflow": {
+      "scrollW": 1440,
+      "clientW": 1440,
+      "overflowBy": 0,
+      "offenders": []
+    },
+    "smallTargets": [
+      {
+        "tag": "a",
+        "text": "Work",
+        "w": 34,
+        "h": 22
+      },
+      {
+        "tag": "a",
+        "text": "Approach",
+        "w": 63,
+        "h": 22
+      },
+      {
+        "tag": "a",
+        "text": "About",
+        "w": 38,
+        "h": 22
+      },
+      {
+        "tag": "a",
+        "text": "Start a conversation ↗",
+        "w": 152,
+        "h": 19
+      }
+    ],
+    "errors": [],
+    "file": "/var/folders/1d/cr68b4b50jg0gh_hbjx6vr0h0000gn/T/paperclip-run-elv-37-acecf0bc-f2f-TEASgr/shots/desktop-1440-light.png"
+  },
+  {
+    "viewport": "desktop-1440",
+    "theme": "dark",
+    "overflow": {
+      "scrollW": 1440,
+      "clientW": 1440,
+      "overflowBy": 0,
+      "offenders": []
+    },
+    "smallTargets": [
+      {
+        "tag": "a",
+        "text": "Work",
+        "w": 34,
+        "h": 22
+      },
+      {
+        "tag": "a",
+        "text": "Approach",
+        "w": 63,
+        "h": 22
+      },
+      {
+        "tag": "a",
+        "text": "About",
+        "w": 38,
+        "h": 22
+      },
+      {
+        "tag": "a",
+        "text": "Start a conversation ↗",
+        "w": 152,
+        "h": 19
+      }
+    ],
+    "errors": [],
+    "file": "/var/folders/1d/cr68b4b50jg0gh_hbjx6vr0h0000gn/T/paperclip-run-elv-37-acecf0bc-f2f-TEASgr/shots/desktop-1440-dark.png"
+  }
+]
